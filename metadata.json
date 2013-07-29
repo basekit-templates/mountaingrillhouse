@@ -1,7 +1,7 @@
 {
 	"name":"Mountain Grillhouse",
 	"thumbnail":"modernwhite.png",
-	"screenshot":"modernwhite.png ",
+	"screenshot":"modernwhite.png",
 	"pageTypes":["home"],
     "defaultColorSwatch":"Colorful 4",
     "defaultFontSwatch":"Lato",
