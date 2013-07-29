@@ -56,7 +56,7 @@
     "fontSwatch": {
        "title": "PT Sans Narrow",
         "font1": {
-            "font-family": "Pacifico",
+            "font-family": "Lobster",
             "font-size": "64px",
             "font-weight": "500",
             "line-height": "36px",
@@ -80,7 +80,7 @@
             "letter-spacing": "inherit"
         },
         "font4": {
-            "font-family": "Pacifico",
+            "font-family": "Lobster",
             "font-size": "28px",
             "font-weight": "inherit",
             "line-height": "inherit",
