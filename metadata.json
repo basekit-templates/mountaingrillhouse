@@ -1,7 +1,7 @@
 {
 	"name":"Mountain Grillhouse",
-	"thumbnail":"languagecourse.png",
-	"screenshot":"languagecourse.png ",
+	"thumbnail":"mountain.png",
+	"screenshot":"mountain.png ",
 	"pageTypes":["home"],
     "defaultColorSwatch":"Colorful 4",
     "defaultFontSwatch":"Lato",
