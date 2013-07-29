@@ -1,10 +1,10 @@
 {
-	"name":"Language Course",
-	"thumbnail":"languagecourse.png",
-	"screenshot":"languagecourse.png ",
+	"name":"Mountain Grillhouse",
+	"thumbnail":"mountain.png",
+	"screenshot":"mountain.png ",
 	"pageTypes":["home"],
     "defaultColorSwatch":"Colorful 4",
-    "defaultFontSwatch":"Pacifico",
+    "defaultFontSwatch":"Lato",
     "colorSwatches":
     {
         "Swatch 1": {
