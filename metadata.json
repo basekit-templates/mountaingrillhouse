@@ -1,0 +1,136 @@
+{
+	"name":"Language Course",
+	"thumbnail":"languagecourse.png",
+	"screenshot":"languagecourse.png ",
+	"pageTypes":["home"],
+    "defaultColorSwatch":"Colorful 4",
+    "defaultFontSwatch":"Pacifico",
+    "colorSwatches":
+    {
+        "Swatch 1": {
+            "color1":"#ffffff",
+            "color2":"#E0EEF0",
+            "color3":"#4b4b4b",
+            "color4":"#559572",
+            "color5":"#9D8E8E",
+            "color6":"#191919",
+            "color7":"#ffffff"
+        },
+        "Swatch 2": {
+            "color1":"#ffffff",
+            "color2":"#72d0eb",
+            "color3":"#83c028",
+            "color4":"#2f353e",
+            "color5":"#b4bec7",
+            "color6":"#434f5b",
+            "color7":"#ffffff"
+        },
+        "Swatch 3": {
+            "color1":"#ffffff",
+            "color2":"#72d0eb",
+            "color3":"#83c028",
+            "color4":"#2f353e",
+            "color5":"#b4bec7",
+            "color6":"#434f5b",
+            "color7":"#ffffff"
+        },
+        "Swatch 4": {
+            "color1":"#ffffff",
+            "color2":"#72d0eb",
+            "color3":"#83c028",
+            "color4":"#2f353e",
+            "color5":"#b4bec7",
+            "color6":"#434f5b",
+            "color7":"#ffffff"
+        },
+        "Swatch 5": {
+            "color1":"#ffffff",
+            "color2":"#72d0eb",
+            "color3":"#83c028",
+            "color4":"#2f353e",
+            "color5":"#b4bec7",
+            "color6":"#434f5b",
+            "color7":"#ffffff"
+        }
+    },
+    "fontSwatch": {
+       "title": "PT Sans Narrow",
+        "font1": {
+            "font-family": "Pacifico",
+            "font-size": "64px",
+            "font-weight": "500",
+            "line-height": "36px",
+            "color": "@color-swatch4",
+            "letter-spacing": "inherit"
+        },
+        "font2": {
+            "font-family": "Lato",
+            "font-size": "18px",
+            "font-weight": "inherit",
+            "line-height": "inherit",
+            "color": "@color-swatch3",
+            "letter-spacing": "inherit"
+        },
+        "font3": {
+            "font-family": "Lato",
+            "font-size": "26px",
+            "font-weight": "inherit",
+            "line-height": "inherit",
+            "color": "@color-swatch4",
+            "letter-spacing": "inherit"
+        },
+        "font4": {
+            "font-family": "Pacifico",
+            "font-size": "28px",
+            "font-weight": "inherit",
+            "line-height": "inherit",
+            "color": "@color-swatch6",
+            "letter-spacing": "inherit"
+        },
+        "font5": {
+            "font-family": "Helvetica",
+            "font-size": "14px",
+            "font-weight": "500",
+            "line-height": "1.8em",
+            "color": "@color-swatch5",
+            "letter-spacing": "inherit"
+        },
+        "font6": {
+            "font-family": "PT Sans Narrow",
+            "font-size": "15px",
+            "font-weight": "600",
+            "line-height": "28px",
+            "color": "@color-swatch6",
+            "color-hover": "@color-swatch6",
+            "letter-spacing": "inherit",
+            "background-color": "@color-swatch3",
+            "background-color-hover": "@color-swatch3"
+        },
+        "font7": {
+            "font-family": "PT Sans Narrow",
+            "font-size": "16px",
+            "font-weight": "inherit",
+            "line-height": "26px",
+            "color": "@color-swatch1",
+            "letter-spacing": "inherit",
+            "background-color": "@color-swatch2",
+            "background-color-hover": "@color-swatch7"
+        },
+        "font8": {
+            "font-family": "PT Sans Narrow",
+            "font-size": "40px",
+            "font-weight": "500",
+            "line-height": "50px",
+            "color": "@color-swatch1",
+            "letter-spacing": "inherit"
+        },
+        "font9": {
+            "font-family": "PT Sans Narrow",
+            "font-size": "24px",
+            "font-weight": "500",
+            "line-height": "36px",
+            "color": "@color-swatch1",
+            "letter-spacing": "inherit"
+        }
+    }
+}
